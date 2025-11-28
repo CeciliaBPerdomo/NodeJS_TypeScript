@@ -3,6 +3,7 @@
 </div>
 
 # Clases Backend: Node.js + TypeScript
-- Clase 5: File System
-- Clase 7: Express 101
-- Clase 8: Contenido Estático desde el back
+- Clase 05: File System
+- Clase 07: Express 101
+- Clase 08: Contenido Estático desde el back
+- Clase 09: Query Params

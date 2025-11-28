@@ -1,0 +1,1 @@
+{"version":3,"file":"pokemon.d.ts","sourceRoot":"","sources":["../../controllers/pokemon.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAA;AAGhD,eAAO,MAAM,eAAe,GAAU,KAAK,OAAO,EAAE,KAAK,QAAQ,kBAMhE,CAAA;AAED,eAAO,MAAM,oBAAoB,GAAU,KAAK,OAAO,EAAE,KAAK,QAAQ,kBAWrE,CAAA;AAED,eAAO,MAAM,kBAAkB,GAAU,KAAK,OAAO,EAAE,KAAK,QAAQ,kBA8BnE,CAAA"}
