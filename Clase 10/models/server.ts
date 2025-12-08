@@ -3,7 +3,10 @@ import express from "express"
 import type { Express } from "express"
 
 import { conectarDB } from "../database/config.js"
+
+// Rutas
 import studentRoutes from "../routes/students.js"
+import camadasRoutes from "../routes/camada.js"
 
 
 export class Server {
@@ -27,6 +30,7 @@ export class Server {
 
     routes(): void {
         this.app.use("/students", studentRoutes)
+        this.app.use("/camadas", camadasRoutes)
     }
 
     listen (): void {

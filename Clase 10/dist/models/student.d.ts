@@ -1,8 +1,8 @@
-import { Model } from "mongoose";
+import { Model, type ObjectId } from "mongoose";
 export interface IStudent {
     ci: number;
     nombre: string;
-    camada: number;
+    camada: ObjectId;
     email: string;
     estado: boolean;
 }

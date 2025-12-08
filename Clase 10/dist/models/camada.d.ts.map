@@ -1,0 +1,1 @@
+{"version":3,"file":"camada.d.ts","sourceRoot":"","sources":["../../models/camada.ts"],"names":[],"mappings":"AAAA,OAAO,EAAiB,KAAK,EAAE,MAAM,UAAU,CAAA;AAE/C,MAAM,WAAW,OAAO;IACpB,MAAM,EAAE,MAAM,CAAC;IACf,aAAa,EAAE,MAAM,CAAC;IACtB,MAAM,EAAE,MAAM,CAAA;CACjB;AAkBD,QAAA,MAAM,MAAM,EAAE,KAAK,CAAC,OAAO,CAA0C,CAAA;AACrE,eAAe,MAAM,CAAA"}
