@@ -8,6 +8,7 @@
 - Clase 08: Contenido Estático desde el back
 - Clase 09: Query Params
 - Clase 10: Conexión a MongoDB con Mongoose
+- Clase 11: Validaciones
 
 ## Información útil
 
