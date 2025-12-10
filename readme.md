@@ -3,15 +3,19 @@
 </div>
 
 # Clases Backend: Node.js + TypeScript
-- Clase 05: File System
-- Clase 07: Express 101
-- Clase 08: Contenido Estático desde el back
-- Clase 09: Query Params
-- Clase 10: Conexión a MongoDB con Mongoose
-- Clase 11: Validaciones
+- **Clase 05**: File System
+- **Clase 07**: Express 101
+- **Clase 08**: Contenido Estático desde el back
+- **Clase 09**: Query Params
+- **Clase 10**: Conexión a MongoDB con Mongoose
+- **Clase 11**: Validaciones
+- **Clase 12**: JWT
 
 ## Información útil
 
-| Documentación | Web | 
+| 💻 Documentación | 🌐 Web | 
 | ---- | ----  | 
 | **Mongoose (Populate)** | `https://mongoosejs.com/docs/typescript/populate.html` |
+| **Bcrypt** | `https://www.npmjs.com/package/bcryptjs` | 
+| **Json web token** | `https://www.npmjs.com/package/jsonwebtoken` |
+| **JWT Debugger**  | `https://jwt.io/` |
