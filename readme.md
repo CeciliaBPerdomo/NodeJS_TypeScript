@@ -10,6 +10,7 @@
 - **Clase 10**: Conexión a MongoDB con Mongoose
 - **Clase 11**: Validaciones
 - **Clase 12**: JWT
+- **Clase 14**: Proyecto integrador: NucbaApi
 
 ## Información útil
 
