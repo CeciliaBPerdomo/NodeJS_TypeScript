@@ -20,3 +20,4 @@
 | **Bcrypt** | `https://www.npmjs.com/package/bcryptjs` | 
 | **Json web token** | `https://www.npmjs.com/package/jsonwebtoken` |
 | **JWT Debugger**  | `https://jwt.io/` |
+| **Express-validator** | `https://express-validator.github.io/docs/` |
