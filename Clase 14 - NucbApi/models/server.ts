@@ -2,9 +2,11 @@ import express from "express"
 import type { Express } from "express"
 import cors from "cors"
 
+// Conexion a la base de datos de mongo
+import { dbConnection } from "../database/config.js"
+
 // Rutas
 import authRoutes from "../routes/auth.js"
-import { dbConnection } from "../database/config.js"
 
 export class Server {
     app: Express
