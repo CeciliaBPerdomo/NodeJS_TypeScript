@@ -12,6 +12,7 @@
 - **Clase 12**: JWT
 - **Clase 14**: Proyecto integrador: NucbaZappi (Registro)
 - **Clase 15**: Proyecto integrador: NucbaZappi (Nodemailer)
+- **Clase 16**: Proyecto integrador: Orders & Issues
 
 ## Información útil
 

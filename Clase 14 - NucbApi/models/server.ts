@@ -7,17 +7,22 @@ import { dbConnection } from "../database/config.js"
 
 // Rutas
 import authRoutes from "../routes/auth.js"
+import ordersRoutes from "../routes/orders.js"
 
 export class Server {
     app: Express
     port: string | number | undefined
     authPath: string
+    orderPath: string
 
     constructor() {
         this.app = express()
-        this.port = process.env.PORT
-        this.authPath = '/auth'
         this.conectarDB()
+        this.port = process.env.PORT
+
+        this.authPath = '/auth'
+        this.orderPath = "/orders"
+        
         this.middlewares()
         this.routes()
     }
@@ -33,6 +38,7 @@ export class Server {
 
     routes(): void {
         this.app.use(this.authPath, authRoutes)
+        this.app.use(this.orderPath, ordersRoutes)
     }
 
     listen(): void {

@@ -3,6 +3,7 @@ export declare class Server {
     app: Express;
     port: string | number | undefined;
     authPath: string;
+    orderPath: string;
     constructor();
     conectarDB(): Promise<void>;
     middlewares(): void;

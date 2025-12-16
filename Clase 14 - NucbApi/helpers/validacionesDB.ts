@@ -1,3 +1,4 @@
+// helpers -> validacionesDB.ts
 import { sendEmail } from "../mailer/mailer.js"
 import type { IUser } from "../models/usuario.js"
 import Usuario from "../models/usuario.js"
