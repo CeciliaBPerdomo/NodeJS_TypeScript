@@ -23,4 +23,4 @@
 | **Json web token** | `https://www.npmjs.com/package/jsonwebtoken` |
 | **JWT Debugger**  | `https://jwt.io/` |
 | **Express-validator** | `https://express-validator.github.io/docs/` |
-- **Nodemailer** | `https://nodemailer.com/` | 
+| **Nodemailer** | `https://nodemailer.com/` | 
