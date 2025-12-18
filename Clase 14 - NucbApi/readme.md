@@ -31,3 +31,30 @@
 
 > Error al envio al correo: Error: Missing credentials for "PLAIN"
 - Agregar: `import 'dotenv/config';`
+
+
+<!-- 
+Postman del post de orders: 
+
+{
+    "price": 1500,
+    "shippingCost": 100,
+    "items": [
+        {
+            "desc": "Pizza conmigo",
+            "id": 1,
+            "price": 1500,
+            "quantity": 1,
+            "title": "Pizza conmigo"
+        }
+    ],
+    "shippingDetails": {
+        "name": "Cecilia Perdomo",
+        "cellphone": "3456879",
+        "location": "Colonia",
+        "address": "Calle 1234"
+    },
+    "total": 1600
+}
+
+ -->

@@ -4,6 +4,7 @@ export declare class Server {
     port: string | number | undefined;
     authPath: string;
     orderPath: string;
+    issuesPath: string;
     constructor();
     conectarDB(): Promise<void>;
     middlewares(): void;

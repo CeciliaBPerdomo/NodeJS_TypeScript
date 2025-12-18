@@ -8,12 +8,14 @@ import { dbConnection } from "../database/config.js"
 // Rutas
 import authRoutes from "../routes/auth.js"
 import ordersRoutes from "../routes/orders.js"
+import issuesRoutes from "../routes/issues.js"
 
 export class Server {
     app: Express
     port: string | number | undefined
     authPath: string
     orderPath: string
+    issuesPath: string
 
     constructor() {
         this.app = express()
@@ -22,6 +24,7 @@ export class Server {
 
         this.authPath = '/auth'
         this.orderPath = "/orders"
+        this.issuesPath = "/issues"
         
         this.middlewares()
         this.routes()
@@ -39,9 +42,10 @@ export class Server {
     routes(): void {
         this.app.use(this.authPath, authRoutes)
         this.app.use(this.orderPath, ordersRoutes)
+        this.app.use(this.issuesPath, issuesRoutes)
     }
 
     listen(): void {
-        this.app.listen(this.port, () => console.log(`Corriendo en puerto: ${this.port}`))
+        this.app.listen(this.port, () => console.log(`Corriendo rápido en el puerto: ${this.port}`))
     }
 }
