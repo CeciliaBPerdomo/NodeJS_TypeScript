@@ -25,4 +25,4 @@
 | **JWT Debugger**  | `https://jwt.io/` |
 | **Express-validator** | `https://express-validator.github.io/docs/` |
 | **Nodemailer** | `https://nodemailer.com/` | 
-| Vercel |  `https://vercel.com/docs/functions` <br/> `https://vercel.com/docs/functions/serverless-functions/using-express` <br/>  `https://vercel.com/docs/project-configuration` <br/> `https://vercel.com/docs/functions/typescript` | 
+| **Vercel** |  `https://vercel.com/docs/functions` <br/> `https://vercel.com/docs/functions/serverless-functions/using-express` <br/>  `https://vercel.com/docs/project-configuration` <br/> `https://vercel.com/docs/functions/typescript` | 
