@@ -58,3 +58,16 @@ Postman del post de orders:
 }
 
  -->
+
+ ## Configuraciones en Vercel
+
+| Documentacion | Descripcion | Web |
+| ------------- | ----------- | ---- |
+| Serverless Functions en Vercel (Node / Express) | 👉 Vercel Functions | `https://vercel.com/docs/functions` | 
+| Express en Vercel | 👉 Using Express with Vercel | `https://vercel.com/docs/functions/serverless-functions/using-express` | 
+| Configuración **vercel.json** | 👉 Vercel JSON | `https://vercel.com/docs/project-configuration` | 
+| TypeScript en Functions | 👉 TypeScript with Vercel | `https://vercel.com/docs/functions/typescript` | 
+
+
+## Documentación
+Documentación creada por postman: `https://documenter.getpostman.com/view/20220203/2sB3dWqRj3`

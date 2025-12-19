@@ -13,6 +13,7 @@
 - **Clase 14**: Proyecto integrador: NucbaZappi (Registro)
 - **Clase 15**: Proyecto integrador: NucbaZappi (Nodemailer)
 - **Clase 16**: Proyecto integrador: Orders & Issues
+- **Clase 17**: Proyecto integrador: Deploy en Vercel, documentación con Postman y conexión con el front
 
 ## Información útil
 
@@ -24,3 +25,4 @@
 | **JWT Debugger**  | `https://jwt.io/` |
 | **Express-validator** | `https://express-validator.github.io/docs/` |
 | **Nodemailer** | `https://nodemailer.com/` | 
+| Vercel |  `https://vercel.com/docs/functions` <br/> `https://vercel.com/docs/functions/serverless-functions/using-express` <br/>  `https://vercel.com/docs/project-configuration` <br/> `https://vercel.com/docs/functions/typescript` | 
